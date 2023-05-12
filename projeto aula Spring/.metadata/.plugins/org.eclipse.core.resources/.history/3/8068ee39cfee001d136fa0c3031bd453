@@ -1,0 +1,5 @@
+package com.mauricio.devsuperior.userDept.entities;
+
+public class User {
+
+}
